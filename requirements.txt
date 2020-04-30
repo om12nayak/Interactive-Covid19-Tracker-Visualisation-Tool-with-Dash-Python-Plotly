@@ -1,0 +1,10 @@
+Python version - 3.7 or more
+
+Pip packages:-
+-----------------------
+dash==1.11.0
+numpy==1.16.3
+pandas==0.24.2
+requests==2.22.0
+regex==2019.8.19
+
